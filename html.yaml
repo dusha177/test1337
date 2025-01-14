@@ -1,0 +1,15 @@
+swagger: '2.0'
+info:
+  title: Gab3 yaml.spec
+  description: |
+    <svg><mtext><img src="#" onerror="alert('hexens')"></mtext></svg>
+paths:
+  /accounts:
+    get:
+      responses:
+        '200':
+          description: No response was specified
+      tags:
+        - accounts
+      operationId: findAccounts
+      summary: Finds all accounts
