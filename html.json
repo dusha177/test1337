@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/squareup1/test/main/html.yaml",
+    "url": "https://raw.githubusercontent.com/0xGabe/Swagger-UI-XSS/refs/heads/main/swagger-xss.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/squareup1/test/main/html.yaml",
+            "url": "https://raw.githubusercontent.com/0xGabe/Swagger-UI-XSS/refs/heads/main/swagger-xss.yaml",
             "name": "hide"
         }
     ]
